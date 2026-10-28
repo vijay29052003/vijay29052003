@@ -13,7 +13,7 @@
 
 **.NET · Angular · SQL Server · REST APIs**
 
-Building reliable backend services and scalable enterprise applications.
+Developing scalable web applications and secure REST APIs using C#, .NET Core, Angular, and SQL.
 
 <br/>
 
@@ -89,6 +89,20 @@ I'm **Vijaya Satavahan Busi**, a Software Developer with professional experience
 <br/>
 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="35" alt="Swagger"/>
+
+### 🏗️ System Design & Concepts
+
+<img src="https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge" alt="System Design"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-green?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Load%20Balancing-Scalability-orange?style=for-the-badge" alt="Load Balancing"/>
+<img src="https://img.shields.io/badge/Caching-Performance-red?style=for-the-badge" alt="Caching"/>
+<img src="https://img.shields.io/badge/Database%20Design-Modeling-blueviolet?style=for-the-badge" alt="Database Design"/>
+<img src="https://img.shields.io/badge/Client--Server-Architecture-lightgrey?style=for-the-badge" alt="Client Server Architecture"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-9cf?style=for-the-badge" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Scalability-High%20Availability-brightgreen?style=for-the-badge" alt="Scalability and High Availability"/>
+<img src="https://img.shields.io/badge/Message%20Queues-Async%20Processing-yellow?style=for-the-badge" alt="Message Queues"/>
+<img src="https://img.shields.io/badge/Authentication-JWT%20%7C%20Authorization-purple?style=for-the-badge" alt="Authentication and Authorization"/>
+
 
 ### 🔐 Core Concepts
 
