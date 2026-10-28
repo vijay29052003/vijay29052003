@@ -1,286 +1,292 @@
-<!-- ==================== PROFILE HEADER ==================== -->
-
 <div align="center">
 
-<img src="./github_header.png" width="100%" alt="Vijaya Satavahan — Software Developer"/>
+<img src="./github_header.png" width="100%" alt="Vijaya Satavahan Busi — Full Stack Software Developer"/>
 
-Vijaya Satavahan Busi
+# Vijaya Satavahan Busi
 
-Full Stack Software Developer
+### Full Stack Software Developer
 
-.NET · Angular · SQL Server · REST APIs
+**C# · .NET · Angular · SQL Server · REST APIs**
 
-Developing scalable web applications and secure REST APIs using C#, .NET Core, Angular, and SQL.
+Developing scalable enterprise applications and secure REST APIs using C#, .NET, Angular, and SQL.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/satavahanit"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:busisatavahan290503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/vijay29052003?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://www.linkedin.com/in/satavahanit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:busisatavahan290503@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/vijay29052003?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Developing+Enterprise+Applications;Building+RESTful+APIs;Creating+Reliable+Software+Solutions" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Enterprise+Applications;Developing+Secure+REST+APIs;Creating+Reliable+Software+Solutions" alt="Developer introduction"/>
 
 </div>
 
-👨‍💻 About Me
+---
 
-I'm Vijaya Satavahan Busi, a Software Developer with professional experience in developing and maintaining frontend and backend applications.
+## About Me
 
-Developing enterprise applications using C# and .NET.
+I'm a **Full Stack Software Developer** with professional experience building and maintaining frontend and backend applications. My primary focus is developing enterprise web applications with **C#, .NET, Angular, and SQL databases**.
 
-Designing RESTful APIs and implementing CRUD operations.
+- **Backend Development:** Build and maintain APIs using C#, ASP.NET Core, and .NET Web API.
+- **Frontend Development:** Develop responsive application interfaces using Angular, HTML, and CSS.
+- **Database Integration:** Work with SQL Server and MySQL for application data management.
+- **API Security:** Implement JWT authentication and authorization workflows.
+- **API Testing:** Validate endpoints and document API behavior with Postman and Swagger.
+- **Engineering Focus:** Clean, maintainable code, reliable API behavior, and practical performance improvements.
 
-Building responsive user interfaces using Angular.
+---
 
-Working with SQL Server and MySQL databases.
-
-Implementing JWT authentication and API authorization.
-
-Testing and documenting APIs using Postman and Swagger.
-
-Core focus: Enterprise web applications, backend API development, database integration, and secure authentication.
-
-⚙️ Tech Stack
+## Technical Skills
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=4&section=header" width="100%" alt=""/>
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-💻 Programming Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,ts&theme=dark" height="48" alt="C#, Python, JavaScript and TypeScript"/>
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts&theme=dark" height="45" alt="C#, Python, JavaScript, TypeScript"/>
 
 <br/><br/>
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="SQL"/>
+
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-🎨 Frontend Development
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" height="48" alt="Angular, HTML and CSS"/>
-
-<br/><br/>
-<img src="https://img.shields.io/badge/Responsive_UI-0891B2?style=for-the-badge" height="28" alt="Responsive UI"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,django&theme=dark" height="48" alt=".NET and Django"/>
+<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" height="45" alt="Angular, HTML, CSS"/>
 
 <br/><br/>
-<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="ASP.NET Core"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" height="28" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT_AUTH-4338CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" alt="JWT Authentication"/>
 
-</td>
-<td width="50%" align="center" valign="top">
-
-🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL"/>
-
-<br/><br/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Microsoft SQL Server"/>
+<img src="https://img.shields.io/badge/Responsive_UI-0891B2?style=for-the-badge" alt="Responsive UI"/>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center" valign="top">
 
-🧰 Developer Tools
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" height="48" alt="Git, GitHub and Postman"/>
+<img src="https://skillicons.dev/icons?i=dotnet,django&theme=dark" height="45" alt=".NET and Django"/>
 
 <br/><br/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28" alt="Swagger"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" alt="REST APIs"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-4338CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-🏗️ System Design & Concepts
+### Databases
 
-<img src="https://img.shields.io/badge/Client--Server-2563EB?style=for-the-badge" alt="Client Server Architecture"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" alt="MySQL"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Caching-0891B2?style=for-the-badge" alt="Caching"/>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" height="45" alt="Git, GitHub, Postman"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Load_Balancing-7C3AED?style=for-the-badge" alt="Load Balancing"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### System Design & Concepts
+
+<img src="https://img.shields.io/badge/Client--Server_Architecture-2563EB?style=for-the-badge" alt="Client Server Architecture"/>
+
 <br/><br/>
+
+<img src="https://img.shields.io/badge/REST_API_Design-0891B2?style=for-the-badge" alt="REST API Design"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Database_Design-059669?style=for-the-badge" alt="Database Design"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Scalability_&_Availability-F97316?style=for-the-badge" alt="Scalability and Availability"/>
+
+<img src="https://img.shields.io/badge/Caching-0E7490?style=for-the-badge" alt="Caching"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Microservices-Architecture-64748B?style=for-the-badge" alt="Microservices Architecture"/>
+
+<img src="https://img.shields.io/badge/Load_Balancing-7C3AED?style=for-the-badge" alt="Load Balancing"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Message_Queues-Async_Processing-CA8A04?style=for-the-badge" alt="Message Queues and Asynchronous Processing"/>
+
+<img src="https://img.shields.io/badge/Scalability_&_Availability-475569?style=for-the-badge" alt="Scalability and Availability"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microservices-64748B?style=for-the-badge" alt="Microservices"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Message_Queues_&_Async_Processing-B45309?style=for-the-badge" alt="Message Queues and Asynchronous Processing"/>
 
 </td>
 </tr>
 </table>
+
 </div>
 
-🔐 Core Concepts
+### Core Concepts
 
-RESTful API design and CRUD operations
+- **RESTful APIs:** Resource-based endpoints, HTTP methods, status codes, and CRUD operations.
+- **Authentication and Authorization:** JWT-based authentication and access control.
+- **Object-Oriented Programming:** Encapsulation, inheritance, abstraction, and polymorphism.
+- **Database Fundamentals:** Relational data, queries, and database integration.
+- **Client–Server Architecture:** Communication between frontend applications, APIs, and databases.
 
-JWT authentication and authorization
+---
 
-Object-Oriented Programming (OOP)
+## Professional Experience
 
-Database design and query fundamentals
+### Software Engineer — Containe Technologies Limited
 
-Client-server architecture
+**October 2025 – Present**
 
-💼 Professional Experience
+**Technology Stack:** C# · .NET · Angular · SQL Server
 
-Software Engineer — Containe Technologies Limited
+- **REST API Development:** Designed RESTful APIs for enterprise applications, with a reported reduction of nearly **30% in average API response time**.
+- **Reusable Frontend Components:** Developed UI components for reuse across application modules.
+- **CRUD Operations:** Implemented endpoints to create, retrieve, update, and delete application data.
+- **API Testing and Documentation:** Tested and validated endpoints using Postman and Swagger.
+- **Full-Stack Development:** Worked across C#, .NET, Angular, and SQL database integrations.
+- **Maintainability:** Contributed to application maintenance and improvements to code quality and reliability.
 
-October 2025 – Present
+---
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-Key Contributions
-
-API development and performance: Designed RESTful APIs for enterprise applications, reducing average API response time by nearly 30%.
-
-Reusable frontend components: Developed UI components used across application modules.
-
-CRUD operations: Implemented API endpoints to create, retrieve, update, and delete application data.
-
-API testing and documentation: Tested and validated APIs using Postman and Swagger.
-
-Full-stack collaboration: Worked with C#, .NET, Angular, and SQL databases.
-
-🚀 Featured Projects
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=4&section=header" width="100%" alt=""/>
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT_01-2563EB?style=for-the-badge" alt="Project 1"/>
-
-API Rate Limiter & ERP Applications
+### API Rate Limiter & ERP Applications
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" alt="SQL"/>
-</div>
 
-Overview
+**Overview**
 
-Enterprise applications and backend API functionality designed to support business operations and application workflows.
+Enterprise application workflows and backend API functionality designed to support business operations.
 
-Key Features
+**Key Features**
 
-API gateway functionality
-
-JWT authentication and request validation
-
-Role-based authorization
-
-RESTful APIs and CRUD operations
-
-Responsive user interfaces
-
-SQL database integration
+- RESTful API endpoints and CRUD operations.
+- JWT authentication and request validation.
+- Role-based authorization concepts.
+- SQL database integration.
+- Responsive user interfaces.
+- API integration and application workflows.
 
 </td>
+
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT_02-16A34A?style=for-the-badge" alt="Project 2"/>
-
-AI-Powered Real-Time Communication System
+### AI-Powered Real-Time Communication System
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-</div>
 
-Overview
+**Overview**
 
-An AI-powered system designed to assist people who are deaf or mute by interpreting sign-language gestures into text or speech.
+An AI-powered system intended to support communication by interpreting sign-language gestures into text or speech.
 
-Key Features
+**Key Features**
 
-Computer vision and deep learning
-
-CNN-based gesture recognition
-
-Python and Flask application development
-
-Machine learning classification algorithms
-
-Accessibility-focused communication
+- Computer vision and deep learning.
+- CNN-based gesture recognition.
+- Python application development.
+- Machine-learning classification.
+- Accessibility-focused communication.
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/vijay29052003?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+
+<a href="https://github.com/vijay29052003?tab=repositories"><img src="https://img.shields.io/badge/Explore_GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Projects"/></a>
+
 </div>
 
-🎓 Education
+---
 
-Bachelor of Technology — Computer Science and Engineering
+## Education
 
-Sri Vasavi Institute of Engineering and Technology
+### Bachelor of Technology — Computer Science and Engineering
 
-<img src="https://img.shields.io/badge/GRADUATION-2024-2563EB?style=for-the-badge" alt="Graduation year"/>
+**Sri Vasavi Institute of Engineering and Technology**
+
+<img src="https://img.shields.io/badge/Graduation-2024-2563EB?style=for-the-badge" alt="Graduation year"/>
+
 <img src="https://img.shields.io/badge/CGPA-7.82%20%2F%2010-059669?style=for-the-badge" alt="CGPA"/>
 
-🏆 Certifications & Achievements
+---
 
-AWS AI/ML Data Engineer Internship
+## Certifications & Professional Development
 
-Completed an AI/ML Data Engineer internship with commendable performance.
+### AWS AI/ML Data Engineer Internship
 
-Postman API Fundamentals Student Expert
+Completed an AI/ML Data Engineer internship.
 
-2025 — API testing, documentation, and collaborative API development.
+### Postman API Fundamentals Student Expert
 
-📊 GitHub Statistics
+**2025** — API testing, documentation, and collaborative API development.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vijay29052003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay29052003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay29052003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most-used languages"/>
+
 </div>
 
-🤝 Let's Connect
+---
+
+## Let's Connect
 
 <div align="center">
 
-Interested in building reliable software, solving technical problems, and continuously improving my development skills.
+I'm interested in building reliable software, solving practical engineering problems, and continuously improving my development skills.
 
 <br/><br/>
 
-<a href="mailto:busisatavahan290503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/satavahanit"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/vijay29052003"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:busisatavahan290503@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<a href="https://www.linkedin.com/in/satavahanit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://github.com/vijay29052003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+with+purpose.;Learning+continuously.;Improving+every+day." alt="Animated closing message"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=4&section=footer" width="100%" alt=""/>
 
 <sub>Thank you for visiting my profile.</sub>
 
