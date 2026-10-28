@@ -1,361 +1,232 @@
 
 <!-- ===================================================== -->
-<!--                   PROFILE HEADER                      -->
+<!--                    PROFILE HEADER                     -->
 <!-- ===================================================== -->
 
 <div align="center">
 
 <img src="./github_header.png"
      width="100%"
-     alt="Vijaya Satavahan - Software Developer"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vijaya+Satavahan;Software+Developer;Building+Scalable+Web+Applications;Developing+Reliable+RESTful+APIs;Turning+Ideas+Into+Solutions"
-     alt="Animated introduction"/>
+     alt="Vijaya Satavahan | Software Developer"/>
 
 <br/><br/>
 
+# Vijaya Satavahan Busi
+
+### Software Developer | .NET | Angular | REST APIs
+
+Building reliable backend services and scalable enterprise applications.
+
+<br/>
+
 <a href="https://www.linkedin.com/in/satavahanit">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:satavahanit@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/vijay29052003?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BACKEND-.NET%20%7C%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/FRONTEND-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/API-Development-0891B2?style=flat-square" alt="API Development"/>
-<img src="https://img.shields.io/badge/DATABASE-SQL-2563EB?style=flat-square" alt="SQL"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vijay29052003&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Building+RESTful+APIs;Developing+Enterprise+Applications"
+     alt="Animated developer introduction"/>
 
 </div>
-
-<br/>
 
 ---
 
 <!-- ===================================================== -->
-<!--                      ABOUT ME                         -->
+<!--                       ABOUT                           -->
 <!-- ===================================================== -->
 
-<div align="center">
-
-## 01 | ABOUT ME
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=4&section=header"/>
-
-</div>
+## About Me
 
 I'm **Vijaya Satavahan Busi**, a Software Developer with professional experience in designing, developing, and maintaining frontend and backend applications.
 
-My focus is on building scalable software solutions, developing RESTful APIs, creating responsive user interfaces, and writing clean, maintainable code.
+I focus on building reliable APIs, developing responsive user interfaces, integrating databases, and writing clean, maintainable code.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### What I Do
 
-### Backend Development
-
-- C# and .NET
-- ASP.NET Core Web API
-- RESTful API development
-- CRUD operations
-- JWT authentication
-- Entity Framework Core
-
-</td>
-<td width="50%" valign="top">
-
-### Frontend & Data
-
-- Angular and TypeScript
-- JavaScript, HTML, and CSS
-- Responsive web development
-- SQL Server and MySQL
-- Frontend and backend integration
-- API testing and documentation
-
-</td>
-</tr>
-</table>
+- Develop web applications using **C# and .NET**.
+- Design and implement **RESTful APIs and CRUD operations**.
+- Build responsive user interfaces using **Angular**.
+- Work with **SQL Server and MySQL** databases.
+- Implement **JWT authentication** and API authorization.
+- Test APIs using **Postman and Swagger**.
 
 ---
 
 <!-- ===================================================== -->
-<!--                   EXPERIENCE                          -->
+<!--                       SKILLS                          -->
 <!-- ===================================================== -->
 
-<div align="center">
+## Technical Skills
 
-## 02 | PROFESSIONAL EXPERIENCE
+Technologies and tools I use in application development.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=4&section=header"/>
+### Programming Languages
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+</p>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Tools & Core Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+</p>
+
+**Core Concepts:** RESTful APIs · Object-Oriented Programming · JWT Authentication · Responsive Web Development
+
+---
+
+<!-- ===================================================== -->
+<!--                     EXPERIENCE                        -->
+<!-- ===================================================== -->
+
+## Professional Experience
 
 ### Software Engineer
 
 **Containe Technologies Limited**
 
-<img src="https://img.shields.io/badge/OCT_2025-PRESENT-2563EB?style=for-the-badge"/>
+`October 2025 – Present`
 
-<br/><br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/REST_API-0891B2?style=flat-square" alt="REST API"/>
 
 #### Key Contributions
 
 - Designed scalable RESTful APIs for enterprise applications, reducing average API response time by nearly **30%**.
-- Developed reusable UI components across multiple application modules to improve consistency and maintainability.
+- Developed reusable UI components across multiple application modules, improving consistency and maintainability.
 - Designed and implemented API endpoints for creating, retrieving, updating, and deleting application data.
 - Tested and validated API functionality using Postman and Swagger.
-- Worked with C#, .NET, Angular, and SQL databases for enterprise application development.
+- Worked with C#, .NET, Angular, and SQL databases to support enterprise application development.
+
+---
+
+<!-- ===================================================== -->
+<!--                      PROJECTS                         -->
+<!-- ===================================================== -->
+
+## Featured Projects
+
+Projects from my professional and academic experience.
 
 <br/>
 
-#### Technologies Used
+### 01. API Rate Limiter & ERP Applications
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+<img src="https://img.shields.io/badge/ENTERPRISE_APPLICATIONS-2563EB?style=for-the-badge" alt="Enterprise Applications"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
----
+**Technologies**
 
-<!-- ===================================================== -->
-<!--                    TECH STACK                         -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-## 03 | TECHNICAL SKILLS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:2563EB&height=4&section=header"/>
-
-<p>Technologies and tools used in application development.</p>
-
-</div>
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-### 🔐 Core Concepts
-
-<p>
-<img src="https://img.shields.io/badge/RESTful_APIs-0891B2?style=for-the-badge" alt="RESTful APIs"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JWT_Authentication-4338CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Object_Oriented_Programming-7C3AED?style=for-the-badge" alt="OOP"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Responsive_Web_Development-0F766E?style=for-the-badge" alt="Responsive Web Development"/>
-</p>
-
-### 🧰 Developer Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--                     PROJECTS                           -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-## 04 | FEATURED PROJECTS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=4&section=header"/>
-
-<p>A selection of projects from my professional and academic experience.</p>
-
-</div>
-
-<table>
-<tr>
-
-<!-- PROJECT ONE -->
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT_01-2563EB?style=for-the-badge&logo=dotnet&logoColor=white" alt="Project 1"/>
-
-### API Rate Limiter & ERP Applications
-
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 
-</div>
-
----
-
 **Overview**
 
-Enterprise applications and API functionality designed to support business operations and application workflows.
+Developed and maintained enterprise applications and backend API functionality to support business operations and application workflows.
 
-**Key Features**
+**Key Contributions**
 
-- Centralized API gateway.
-- JWT authentication and request validation.
-- Role-based authorization.
-- RESTful API development and CRUD operations.
-- Responsive application interfaces.
-- SQL database integration.
+- Developed a centralized API gateway supporting JWT authentication.
+- Implemented request validation and role-based authorization.
+- Designed RESTful APIs and CRUD operations.
+- Developed responsive landing pages and reusable UI components.
+- Integrated frontend applications with backend services and SQL databases.
 
 <br/>
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/ENTERPRISE_APPLICATIONS-2563EB?style=for-the-badge" alt="Enterprise Applications"/>
+<br/>
 
-</div>
+### 02. AI-Powered Real-Time Communication System
 
-</td>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-16A34A?style=for-the-badge" alt="Artificial Intelligence"/>
 
-<!-- PROJECT TWO -->
+<br/><br/>
 
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT_02-16A34A?style=for-the-badge&logo=python&logoColor=white" alt="Project 2"/>
-
-### AI-Powered Real-Time Communication System
+**Technologies**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-
-</div>
-
----
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 
 **Overview**
 
-An AI-powered communication system intended to assist people who are deaf or mute by interpreting sign-language gestures into text or speech.
+Developed an AI-powered communication system intended to assist people who are deaf or mute by interpreting sign-language gestures into text or speech.
 
-**Key Features**
+**Key Contributions**
 
-- Computer vision and deep learning concepts.
-- CNN-based gesture recognition.
-- Python and Flask application development.
-- Machine learning algorithms.
-- Accessible communication through technology.
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_ACCESSIBILITY-16A34A?style=for-the-badge" alt="AI Accessibility"/>
-
-</div>
-
-</td>
-</tr>
-</table>
+- Applied computer vision and deep learning concepts.
+- Explored CNN-based gesture and sign recognition.
+- Used Python and Flask for application development.
+- Explored SVM, Random Forest, Decision Tree, and Logistic Regression.
+- Focused on improving accessibility through technology.
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/vijay29052003?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                  GITHUB STATISTICS                     -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-## 05 | GITHUB ANALYTICS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=4&section=header"/>
-
-<br/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=vijay29052003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"
-alt="GitHub statistics"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay29052003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-alt="Most used programming languages"/>
 
 </div>
 
@@ -365,25 +236,17 @@ alt="Most used programming languages"/>
 <!--                     EDUCATION                         -->
 <!-- ===================================================== -->
 
-<div align="center">
+## Education
 
-## 06 | EDUCATION
+### Bachelor of Technology — Computer Science and Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:2563EB&height=4&section=header"/>
+**Sri Vasavi Institute of Engineering and Technology**
 
-### Bachelor of Technology
-
-**Computer Science and Engineering**
-
-Sri Vasavi Institute of Engineering and Technology
-
-<br/>
-
-<img src="https://img.shields.io/badge/GRADUATION-2024-2563EB?style=for-the-badge" alt="Graduation year"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-7.82%20%2F%2010-059669?style=for-the-badge" alt="CGPA"/>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Graduation-2024-2563EB?style=for-the-badge" alt="Graduation year"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-7.82%20%2F%2010-059669?style=for-the-badge" alt="CGPA"/>
+</p>
 
 ---
 
@@ -391,34 +254,41 @@ Sri Vasavi Institute of Engineering and Technology
 <!--                  CERTIFICATIONS                       -->
 <!-- ===================================================== -->
 
-<div align="center">
-
-## 07 | CERTIFICATIONS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A34A,100:0891B2&height=4&section=header"/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## Certifications & Achievements
 
 ### AWS AI/ML Data Engineer Internship
 
-Completed the internship with commendable performance.
+Completed an AI/ML Data Engineer internship with commendable performance.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### Postman API Fundamentals Student Expert
 
 **2025**
 
-API testing, documentation, and collaborative API development.
+Certification covering API testing, documentation, and collaborative API development.
 
-</td>
-</tr>
-</table>
+---
+
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## GitHub Statistics
+
+<br/>
+
+<img width="49%"
+     src="https://github-readme-stats.vercel.app/api?username=vijay29052003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"
+     alt="GitHub statistics"/>
+
+<img width="49%"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay29052003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+     alt="Most used programming languages"/>
+
+</div>
 
 ---
 
@@ -428,32 +298,30 @@ API testing, documentation, and collaborative API development.
 
 <div align="center">
 
-## LET'S CONNECT
+## Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=4&section=header"/>
+I'm interested in building reliable software, solving technical problems, and continuously improving my development skills.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+with+purpose.;Learning+continuously.;Improving+every+day."
-alt="Animated closing message"/>
-
-<br/><br/>
-
-<a href="mailto:satavahanit@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-satavahanit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://www.linkedin.com/in/satavahanit">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/satavahanit">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="mailto:satavahanit@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/vijay29052003">
-<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=120&section=footer" alt="Colorful footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+with+purpose.;Learning+continuously.;Improving+every+day."
+     alt="Animated closing message"/>
+
+<br/><br/>
 
 <sub>Thank you for visiting my profile.</sub>
 
