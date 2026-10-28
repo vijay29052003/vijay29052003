@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bannerheader.png" width="100%" alt="Profile Banner"/>
+<img src="github_header.png" width="100%" alt="Profile Banner"/>
 
 # Satavahan
 
