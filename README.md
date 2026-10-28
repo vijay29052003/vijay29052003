@@ -52,97 +52,62 @@ Testing APIs using Postman and Swagger.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=4&section=header" width="100%" alt=""/>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,ts&theme=dark" height="45" alt="C#, Python, JavaScript and TypeScript"/>
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts&theme=dark&perline=8" height="90" alt="C Sharp, Python, JavaScript and TypeScript"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" height="25" alt="SQL"/>
-
-</td>
-<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" height="35" alt="SQL"/>
 
 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" height="45" alt="Angular, HTML and CSS"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Responsive_UI-0891B2?style=for-the-badge" height="25" alt="Responsive UI"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark&perline=8" height="90" alt="Angular, HTML and CSS"/>
 
 ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=dotnet,django&theme=dark" height="45" alt=".NET and Django"/>
+<img src="https://skillicons.dev/icons?i=dotnet,django&theme=dark&perline=8" height="90" alt=".NET and Django"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" height="25" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT_AUTH-4338CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="25" alt="JWT Authentication"/>
-
-</td>
-<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" height="35" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT_AUTH-4338CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35" alt="JWT Authentication"/>
 
 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="85" alt="MySQL"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25" alt="Microsoft SQL Server"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35" alt="SQL Server"/>
 
 🧰 Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" height="45" alt="Git, GitHub and Postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" height="85" alt="Git, GitHub and Postman"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="25" alt="Swagger"/>
-
-</td>
-<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="35" alt="Swagger"/>
 
 🏗️ System Design & Concepts
 
-<img src="https://img.shields.io/badge/System_Design-Architecture-2563EB?style=for-the-badge" height="25" alt="System Design"/>
-<img src="https://img.shields.io/badge/Client--Server-Architecture-64748B?style=for-the-badge" height="25" alt="Client Server Architecture"/>
-<img src="https://img.shields.io/badge/Caching-Performance-0891B2?style=for-the-badge" height="25" alt="Caching"/>
-<img src="https://img.shields.io/badge/Load_Balancing-Scalability-7C3AED?style=for-the-badge" height="25" alt="Load Balancing"/>
-<img src="https://img.shields.io/badge/Database_Design-Modeling-059669?style=for-the-badge" height="25" alt="Database Design"/>
-<img src="https://img.shields.io/badge/Microservices-Architecture-0EA5E9?style=for-the-badge" height="25" alt="Microservices"/>
-<img src="https://img.shields.io/badge/High_Availability-Reliability-16A34A?style=for-the-badge" height="25" alt="High Availability"/>
-<img src="https://img.shields.io/badge/Message_Queues-Async_Processing-D97706?style=for-the-badge" height="25" alt="Message Queues"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
+<img src="https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge" alt="System Design"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-green?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Load%20Balancing-Scalability-orange?style=for-the-badge" alt="Load Balancing"/>
+<img src="https://img.shields.io/badge/Caching-Performance-red?style=for-the-badge" alt="Caching"/>
+<img src="https://img.shields.io/badge/Database%20Design-Modeling-blueviolet?style=for-the-badge" alt="Database Design"/>
+<img src="https://img.shields.io/badge/Client--Server-Architecture-lightgrey?style=for-the-badge" alt="Client Server Architecture"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-9cf?style=for-the-badge" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Scalability-High%20Availability-brightgreen?style=for-the-badge" alt="Scalability and High Availability"/>
+<img src="https://img.shields.io/badge/Message%20Queues-Async%20Processing-yellow?style=for-the-badge" alt="Message Queues"/>
+<img src="https://img.shields.io/badge/Authentication-JWT%20%7C%20Authorization-purple?style=for-the-badge" alt="Authentication and Authorization"/>
 
 🔐 Core Concepts
 
-<img src="https://img.shields.io/badge/RESTful_APIs-0891B2?style=for-the-badge" height="25" alt="RESTful APIs"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-4338CA?style=for-the-badge" height="25" alt="JWT Authentication"/>
-<img src="https://img.shields.io/badge/Object_Oriented_Programming-7C3AED?style=for-the-badge" height="25" alt="Object Oriented Programming"/>
-<img src="https://img.shields.io/badge/Authentication_&_Authorization-2563EB?style=for-the-badge" height="25" alt="Authentication and Authorization"/>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/RESTful_APIs-0891B2?style=for-the-badge" height="35" alt="RESTful APIs"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-4338CA?style=for-the-badge" height="35" alt="JWT Authentication"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-7C3AED?style=for-the-badge" height="35" alt="OOP"/>
 
 </div>
 
